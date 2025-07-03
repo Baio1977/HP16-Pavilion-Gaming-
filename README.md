@@ -17,7 +17,6 @@
 | Ram                | 16GB                                |
 | SSD                | Kingstone A400 128gb                |
 | SmBios             | MacbookPro 16,4                     |
-| BootLoader         | OpenCore                            |
 
 ### Trackpad
 
